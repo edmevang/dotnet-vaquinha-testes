@@ -1,0 +1,1 @@
+Teste um projeto de crowdfunding desenvolvido em .Net Core com a arquitetura MVC com testes de unidade, integrados e TDD.
